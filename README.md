@@ -16,8 +16,8 @@ Vous trouverez un fichier texte requirements.txt avec les versions des packages 
 ## create virtualenv
 Link: <https://github.com/pyenv/pyenv>
     
-	$ pyenv virtualenv 3.7.2 Quinten
-	$ pyenv activate Quinten
+	$ pyenv virtualenv 3.7.2 disease
+	$ pyenv activate disease
 ## install libraries
     $ pip install --upgrade -r requirements.txt
 ## deactivate
